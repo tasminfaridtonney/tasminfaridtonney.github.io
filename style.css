@@ -31,11 +31,15 @@ body{
     height: 150px;
     border-radius: 50%;
 }
+.skill-container{
+
+}
+
 .project-container{
-    background-color: white;
+    background-color:#7FB1FF;
 }
 .protfolio-container{
-    background-color:#7FB1FF;
+    background-color:white;
 }
 .from-container{
     background-color:#474D50
